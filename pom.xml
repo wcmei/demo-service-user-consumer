@@ -46,6 +46,12 @@
             <artifactId>spring-cloud-starter-dubbo</artifactId>
         </dependency>
 
+        <!--Spring Cloud OAuth2-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-oauth2</artifactId>
+        </dependency>
+
         <!--Actuator-->
         <!--        <dependency>-->
         <!--            <groupId>org.springframework.boot</groupId>-->
